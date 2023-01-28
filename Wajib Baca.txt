@@ -1,0 +1,12 @@
+Required : XAMPP
+
+Database : penjualan
+
+Login Admin : 
+
+Email :admin@admin.com
+Password : password
+
+Login admin sama dengan login user, User biasa tidak akan masuk Panel Admin
+	
+
